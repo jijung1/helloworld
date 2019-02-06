@@ -18,7 +18,7 @@ using namespace std;
 int main()
 {
   cout << "Hello World\n";
-  //pause until user presses return 
+  //pause until user presses return
   getchar();
   return 0;
 }
